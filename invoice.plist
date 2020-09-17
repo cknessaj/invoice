@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dzfp.aisinoha.com/Invoice.ipa</string>
+					<string>https://adp.aisinoha.com/51ios1/XFYH1.0.9.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://coding.net/u/cknessaj/p/invoice/git/raw/master/icon-512.png</string>
+					<string>https://adp.aisinoha.com/51ios1/invoice512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://coding.net/u/cknessaj/p/invoice/git/raw/master/icon-57.png</string>
+					<string>https://adp.aisinoha.com/51ios1/invoice57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.htxx.app.invoice</string>
+				<string>com.htxx.app.51xfyh</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>电子发票</string>
+				<string>51消费</string>
 			</dict>
 		</dict>
 	</array>
